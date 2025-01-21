@@ -1,2 +1,2 @@
 # Samsung_stocks_analysis
-Modelling and analysis of Samsung stocks from 2000 to 2024
+We will be using Samsung's historical stock prices to predict indicators that may be helpful to traders when informing their decisons to buy or sell or call stocks. We will also be conducting EDA (Exploratory Data Analysis) to understand the data and identify any existing patterns or trends. The price of Samsung stocks is measured in KRW
